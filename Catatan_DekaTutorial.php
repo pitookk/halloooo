@@ -20,8 +20,24 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
+    gambar: "stiker1.gif",
+    ucapan: "Halloo ibukk cantikk",
+  },
+  {
+    gambar: "stiker2.gif",
+    ucapan: "Gimanaa UAS nyaa, Lancarr kann?",
+  },
+  {
+    gambar: "stiker3.gif",
+    ucapan: "Semoga nilai nyaa sangat memuaskannn. aamiin",
+  },
+  {
+    gambar: "stiker4.gif",
+    ucapan: "ciee bentarr lagii pulang kampungg",
+  },
+  {
+    gambar: "stiker5.gif",
+    ucapan: "bakall kangenn dehh ntarr hehehee",
   },
 ];
 
